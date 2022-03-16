@@ -169,9 +169,9 @@ dutch.addEventListener("click", () => {
 ▪ Onderhoudssoftware en hardware<br>
    
   
-  <b>Bedrijf</b> - Bershka<br>
-  <b>Looptijd</b> - 2 jaar [2019-2021]<br>
-  <b>Locatie</b> - Amsterdam<br>
+  <b>Bedrijf</b> - Zein<br>
+  <b>Looptijd</b> - 1 jaar [2011]<br>
+  <b>Locatie</b> - Damascus, Syria<br>
 
 </li>
 
